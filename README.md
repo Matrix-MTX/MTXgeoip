@@ -21,6 +21,8 @@ linux :
 3. python3 geoiplinux.py
 
 
+![image](https://user-images.githubusercontent.com/122565710/217891883-1e0ebc7f-577c-4f83-86a0-362a9c657411.png)
+
 
 discord for help  :
 
